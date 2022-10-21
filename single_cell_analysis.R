@@ -4,7 +4,8 @@ library("Seurat")
 library("dplyr")
 library(Matrix)
 
-# Load the PBMC dataset
+# Load the TNBC3 dataset 
+#extract the tar file save it in a folder
 pbmc.data = Read10X(data.dir = "breast_cancer/",gene.column = 2,unique.features = TRUE,strip.suffix = -1)
 # Initialize the Seurat object with the raw (non-normalized data).
 pbmc = CreateSeuratObject(counts = pbmc.data, min.cells = 3, min.features = 200)
