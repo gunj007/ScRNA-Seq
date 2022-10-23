@@ -1,5 +1,5 @@
 # ScRNA-Seq
-# Single cell transcriptome sequencing (single cell RNA sequencing,
+Single cell transcriptome sequencing (single cell RNA sequencing,
 single cell RNA-seq, or scRNA seq) scRNA-seq measures the RNA molecules within each cell of a given sample.
 This information provides a snapshot of the transcriptome (the genes that were being transcribed) when the cells were harvested
 # Why scRNA-seq?
