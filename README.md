@@ -13,7 +13,8 @@ This information provides a snapshot of the transcriptome (the genes that were b
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi
 custom file GSM5974488_TNBC3.filtered_feature_bc_matrix.tar.gz
 	   
-       scRNAseq was performed on a total of thirteen samples: three human samples and ten mouse samples. The human tissue samples of triple negative breast tumors were provided by the NCI Cooperative Human Tissue Network. The murine breast tumor samples were harvested from mammary glands of two transgenic mouse models:
+       scRNAseq was performed on a total of thirteen samples: three human samples and ten mouse samples. The human tissue samples of triple negative breast
+       tumors were provided by the NCI Cooperative Human Tissue Network. The murine breast tumor samples were harvested from mammary glands of two transgenic mouse models:
        a) MMTV-PyMT and b) C3(1)-Tag SV40. The pancreatic tumor came from the Ptf1⍺-CreERTM; LSL- KRASG12D strain. .
        They performed scRNA-seq analysis of fibroblasts from murine and human TNBCs.
        
